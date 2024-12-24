@@ -1,0 +1,52 @@
+{
+  "//1": "ALL COPYRIGHT GO'S TO ニロ#3892",
+  "//2": "ALL COPYRIGHT GO'S TO ニロ#3892",
+  "//3": "ALL COPYRIGHT GO'S TO ニロ#3892",
+  "name": "Music-Bot-By-NiRO",
+  "version": "1.0.0",
+  "description": "All Copyright Go's To @ニロ#٣٨٩٢",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.0.3",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "ffprobe-static": "^3.0.0",
+    "figlet": "^1.5.0",
+    "get-youtube-id": "^1.0.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "table": "^6.0.4",
+    "youtube-info": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://repl.it/@NIR0/Music-Bot-By-NiRO"
+  },
+  "debug": {
+    "url": "https://repl.it/@NIR0/Music-Bot-By-NiRO",
+    "packages": "https://repl.it/@NIR0/Music-Bot-By-NiRO"
+  },
+  "keywords": [
+    "NIRO",
+    "ニロ",
+    "Repl",
+    "Youtube"
+  ],
+  "author": [
+    "ニロ",
+    "NIRO"
+  ],
+  "license": "ISC"
+}
