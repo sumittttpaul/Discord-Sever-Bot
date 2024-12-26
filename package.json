@@ -1,10 +1,6 @@
 {
-  "//1": "ALL COPYRIGHT GO'S TO ニロ#3892",
-  "//2": "ALL COPYRIGHT GO'S TO ニロ#3892",
-  "//3": "ALL COPYRIGHT GO'S TO ニロ#3892",
-  "name": "Music-Bot-By-NiRO",
+  "name": "discord-server-bot",
   "version": "1.0.0",
-  "description": "All Copyright Go's To @ニロ#٣٨٩٢",
   "main": "index.js",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
@@ -30,23 +26,4 @@
   "engines": {
     "node": "12.x"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://repl.it/@NIR0/Music-Bot-By-NiRO"
-  },
-  "debug": {
-    "url": "https://repl.it/@NIR0/Music-Bot-By-NiRO",
-    "packages": "https://repl.it/@NIR0/Music-Bot-By-NiRO"
-  },
-  "keywords": [
-    "NIRO",
-    "ニロ",
-    "Repl",
-    "Youtube"
-  ],
-  "author": [
-    "ニロ",
-    "NIRO"
-  ],
-  "license": "ISC"
 }
