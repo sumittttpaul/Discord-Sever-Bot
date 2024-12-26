@@ -1,15 +1,3 @@
-///////////////////////////////////
-
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
 module.exports = (client, message) => {
 
     if (message.author.bot) return;
@@ -28,17 +16,3 @@ module.exports = (client, message) => {
     cmd.run(client, message, args);
 
 };
-
-
-      ///////////////////////////////////
-
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
