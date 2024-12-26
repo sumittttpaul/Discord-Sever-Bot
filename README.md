@@ -32,12 +32,12 @@ These are all the functionalities that has been implemented in this project :-
 
 ```bash
 1. Play Music
-1. Pause Music
-1. Next Music
-1. Previous Music
-1. YouTube Music
-1. Music Queue
-1. Music Search
-1. Track Add
-1. Track Start
+2. Pause Music
+3. Next Music
+4. Previous Music
+5. YouTube Music
+6. Music Queue
+7. Music Search
+8. Track Add
+9. Track Start
 ```
