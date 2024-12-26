@@ -66,16 +66,3 @@ fs.readdir('./commands/', (err, files) => {
 });
 
 client.login(client.config.bot_token);
-
-///////////////////////////////////
-
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
